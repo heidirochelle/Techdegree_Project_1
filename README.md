@@ -1,1 +1,1 @@
-# techdegree_project_1 for "Exceeds Expectations Grade"
+# techdegree_project_1 
